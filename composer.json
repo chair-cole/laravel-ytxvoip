@@ -1,0 +1,13 @@
+{
+    "name": "mumutou/laravel-ytxvoip",
+    "description": "yuntongxun voip api for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chair.cole",
+            "email": "chair.cole@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
